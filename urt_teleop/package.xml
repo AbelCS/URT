@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+  <name>urt_teleop</name>
+  <version>0.0.1</version>
+  <description>Package that provides robot teleop functionality</description>
+
+  <maintainer email="abel@uniovirobocupteam.org">Abel Castro Suárez</maintainer>
+
+  <!--   BSD, MIT, Boost Software License, GPLv2, GPLv3, LGPLv2.1, LGPLv3 -->
+  <license>TODO</license>
+
+  <!-- <url type="website">http://www.uniovirobocupteam.org/wiki/urt_teleop</url> -->
+
+  <author email="abel@uniovirobocupteam.org">Abel Castro Suárez</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>rospy</build_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>rospy</run_depend>
+
+</package>
