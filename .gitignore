@@ -1,0 +1,37 @@
+/CMakeLists.txt
+._*
+.\#*
+\#*\#
+doc/build
+*.pyc
+*.pc
+.rosinstall
+.project
+.pydevproject
+*~
+*.orig
+.tmp
+.DS_Store
+devel/share
+
+# Eclipse
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
